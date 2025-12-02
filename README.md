@@ -2,8 +2,8 @@
 
 El siguiente proyecto trata acerca sobre una aplicación web en la que se gestiona y personaliza rutinas de ejercicios por medio de IA, y a su vez se pueden realizar estas con una asistencia de Realidad Aumentada que permite corregir errores a la hora de realizarlos. 
 STARS busca superar las limitaciones de las rutinas tradicionales de entrenamiento ofreciendo a los usuarios la posibilidad de visualizar ejercicios en realidad aumentada, recibiendo instrucciones claras y en tiempo real para una correcta ejecución de los movimientos. 
-Además, la plataforma permite organizar rutinas personalizadas, hacer un seguimiento de los progresos y mantener la motivación mediante herramientas interactivas.Este Proyecto fue hecho por los siguientes autores: Jesus Manuel Oscar Segura Leonardo, Misael Dayron Mejia Vara, 
-Sebastian Kenji Yamaguchi Revoredo y Stefano Paolo Quijano Tasayco. 
+Además, la plataforma permite organizar rutinas personalizadas, hacer un seguimiento de los progresos y mantener la motivación mediante herramientas interactivas.Este Proyecto fue hecho por los siguientes autores: Jesus Manuel Oscar Segura Leonardo y 
+Sebastian Kenji Yamaguchi Revoredo.
 
 Este proyecto esta dirigido a jóvenes con pocos recursos económicos, que comprende a jóvenes mayores a 15 años que se ven afectados directamente por la poca motivación que encuentran en realizar actividad física, debido a los costos elevados de gimnasios y entrenadores personales. 
 También a adultos con falta de tiempo, que comprende a los adultos que se vean afectados por la falta de tiempo que estos poseen. Muchas personas no se encuentran cerca a un espacio de entrenamiento, por lo cual, simplemente deciden no hacerlo. 
